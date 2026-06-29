@@ -5,10 +5,10 @@
     box-sizing: border-box;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Stardom&display=swap');
 
 body {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
     line-height: 1.6;
     color: #333;
     background-color: #f9f9f9;
@@ -40,7 +40,7 @@ body {
     font-size: 1.5rem;
     font-weight: bold;
     color: #667eea;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 .nav-links {
@@ -54,7 +54,7 @@ body {
     color: #333;
     font-weight: 500;
     transition: color 0.3s ease;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 .nav-links a:hover {
@@ -73,14 +73,14 @@ body {
     font-size: 3rem;
     margin-bottom: 1rem;
     animation: fadeInDown 0.8s ease;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 .hero-content p {
     font-size: 1.2rem;
     margin-bottom: 2rem;
     animation: fadeInUp 0.8s ease;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 /* Buttons */
@@ -93,7 +93,7 @@ body {
     transition: all 0.3s ease;
     border: none;
     cursor: pointer;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 .btn-primary {
@@ -117,7 +117,7 @@ body {
     font-size: 2.5rem;
     margin-bottom: 2rem;
     color: #333;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 .about p {
@@ -128,7 +128,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     color: #666;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 .features {
@@ -153,13 +153,13 @@ body {
     font-size: 1.5rem;
     margin-bottom: 1rem;
     color: #667eea;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 .feature-card p {
     color: #666;
     text-align: center;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 /* Projects Section */
@@ -173,7 +173,7 @@ body {
     font-size: 2.5rem;
     margin-bottom: 3rem;
     color: #333;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 .project-grid {
@@ -204,13 +204,13 @@ body {
     padding: 1.5rem 1.5rem 0.5rem;
     font-size: 1.3rem;
     color: #333;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 .project-card p {
     padding: 0 1.5rem;
     color: #666;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 .project-card .link {
@@ -220,7 +220,7 @@ body {
     text-decoration: none;
     font-weight: 600;
     transition: color 0.3s ease;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 .project-card .link:hover {
@@ -238,7 +238,7 @@ body {
     font-size: 2.5rem;
     margin-bottom: 3rem;
     color: #333;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 .team-grid {
@@ -272,20 +272,20 @@ body {
     font-size: 1.5rem;
     margin-bottom: 0.5rem;
     color: #333;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 .team-card .role {
     color: #667eea;
     font-weight: 600;
     margin-bottom: 1rem;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 .team-card .bio {
     color: #666;
     margin-bottom: 1.5rem;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 .team-social {
@@ -299,7 +299,7 @@ body {
     text-decoration: none;
     font-weight: 600;
     transition: color 0.3s ease;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 .team-social .social-link:hover {
@@ -317,7 +317,7 @@ body {
     font-size: 2.5rem;
     margin-bottom: 3rem;
     color: #333;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 .contact-form {
@@ -335,7 +335,7 @@ body {
     padding: 12px;
     border: 2px solid #e0e0e0;
     border-radius: 5px;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
     font-size: 1rem;
     transition: border-color 0.3s ease;
 }
@@ -360,7 +360,7 @@ body {
 
 .footer p {
     margin-bottom: 1rem;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 .social-links {
@@ -373,7 +373,7 @@ body {
     color: #fff;
     text-decoration: none;
     transition: color 0.3s ease;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Stardom', sans-serif;
 }
 
 .social-link:hover {
